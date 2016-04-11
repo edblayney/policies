@@ -2,7 +2,7 @@
 
 ## 1. Purpose
 
-A primary goal of the Stumptown Syndicate is to be inclusive to the largest number of participants, with the most varied and diverse backgrounds possible. As such, we are committed to providing a friendly, safe and welcoming environment for all, regardless of gender, sexual orientation, ability, ethnicity, socioeconomic status, and religion (or lack thereof).
+A primary goal of the Smart Louisville Collaborative is to be inclusive to the largest number of participants, with the most varied and diverse backgrounds possible. As such, we are committed to providing a friendly, safe and welcoming environment for all, regardless of gender, sexual orientation, ability, ethnicity, socioeconomic status, and religion (or lack thereof).
 
 This code of conduct outlines our expectations for all those who participate in our community, as well as the consequences for unacceptable behavior.
 
@@ -53,13 +53,13 @@ If a community member engages in unacceptable behavior, we may take any action d
 
 ## 6. Reporting Guidelines
 
-If you are subject to or witness unacceptable behavior, or have any other concerns, please notify us as soon as possible by emailing conduct@stumptownsyndicate.org. Please read [Reporting Guidelines](reporting_guidelines.md) for details.
+If you are subject to or witness unacceptable behavior, or have any other concerns, please notify us as soon as possible by emailing ed.blayney@gmail.com. Please read [Reporting Guidelines](reporting_guidelines.md) for details.
 
 Additionally, community organizers are available to help community members engage with local law enforcement or to otherwise help those experiencing unacceptable behavior feel safe. In the context of in-person events, organizers will also provide escorts as desired by the person experiencing distress.
 
 ## 7. Addressing Grievances
 
-Only permanent resolutions (such as bans) may be appealed. To appeal a decision of the working group, contact the Stumptwon Syndicate Board at board@stumptownsyndicate.org with your appeal and the Syndicate board will review the case.
+Only permanent resolutions (such as bans) may be appealed. To appeal a decision of the working group, contact the Stumptwon Syndicate Board at ed.blayney@gmail.com with your appeal and the Syndicate board will review the case.
 
 ## 8. Scope
 
@@ -69,11 +69,12 @@ This code of conduct and its related procedures also applies to unacceptable beh
 
 ## 9. Contact info
 
-Christie Koehler
-President, Stumptown Syndicate
-christie@stumptownsyndicate.org
+Ed Blayney
+ed.blayney@gmail.com
 
 ## 10. License and attribution
+
+Smart Louisville 2016
 
 The Citizen Code of Conduct is distributed by [Stumptown Syndicate](http://stumptownsyndicate.org) under a [Creative Commons Attribution-ShareAlike license](http://creativecommons.org/licenses/by-sa/3.0/). 
 
