@@ -47,7 +47,7 @@ Finally, the Working Group will make a report on the situation to the Smart Loui
 
 ## Appealing
 
-Only permanent resolutions (such as bans) may be appealed. To appeal a decision of the working group, contact the Stumptown Syndicate Board at board@stumptownsyndicate.org with your appeal and the Executive Board will review the case.
+Only permanent resolutions (such as bans) may be appealed. To appeal a decision of the working group, contact the Stumptown Syndicate Board at ed.blayney@gmail.com with your appeal and the Executive Board will review the case.
 
 Smart Louisville Collaborative 2016
 
